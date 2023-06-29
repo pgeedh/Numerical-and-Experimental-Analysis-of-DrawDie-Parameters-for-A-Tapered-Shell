@@ -4,6 +4,7 @@ This repository contains the research paper titled "Numerical and Experimental A
 Publication</h4> 
 <h5>International Journal of Engineering Research & Technology (IJERT)
 ISSN: 2278-0181
+link: https://www.ijert.org/research/numerical-and-experimental-analysis-of-draw-die-parameters-for-a-tapered-shell-IJERTCONV9IS03108.pdf
 Published by, www.ijert.org
 NTASU - 2020 Conference Proceedings
 The paper investigates the effect of various draw die parameters on the manufacturing process of a tapered shell using numerical simulations and experimental validations.
