@@ -43,4 +43,3 @@ Indicate the license under which the research paper and associated code, if appl
 geedhpruthvi@gmail.com
 
 ---
-This README template can be customized to fit the specific details of your research paper. Feel free to modify it as needed to accurately represent your work.
